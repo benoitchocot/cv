@@ -2933,13 +2933,13 @@ input, select, textarea {
 
 		@media screen and (max-width: 980px) {
 
-			.statistics li strong, .statistics li b {
-				font-size: 1.5em;
+			.statistics {
+				display: none;
 			}
 
 		}
 
-		@media screen and (max-width: 736px) {
+/*		@media screen and (max-width: 736px) {
 
 			.statistics {
 				display: block;
@@ -2967,6 +2967,7 @@ input, select, textarea {
 				}
 
 		}
+*/
 
 /* Spotlight */
 
