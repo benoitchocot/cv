@@ -1,0 +1,27 @@
+[
+    {
+        "id": 5,
+        "entreprise": "Axis Solutions",
+        "contenu": "Chez Axis Solutions, j'ai \u00e9t\u00e9 plac\u00e9 sur un gros projet de SaaS \u00e0 destination des bureaux d'\u00e9tudes. Ma petite exp\u00e9rience chez Axis m'a donn\u00e9 l'occasion de d\u00e9couvrir Angular, et de refaire du Symfony, mais cette fois ci pour d\u00e9couvrir API Platform. Avec la confiance de mon responsable, j'ai pu approfondir mes connaissances et travailler essentiellement en autonomie."
+    },
+    {
+        "id": 4,
+        "entreprise": "Bamana Solutions",
+        "contenu": "Chez Bamana Solutions, j'ai \u00e9t\u00e9 plac\u00e9 sur plusieurs projets : le d\u00e9veloppement d'une e-boutique, ainsi qu'une application de gestion de projet. La confiance que mes ma\u00eetres de stage m'a permi de travailler avec beaucoup d'autonomie et d'approndir mes comp\u00e9tences dans le d\u00e9veloppement web, ainsi que d'applications."
+    },
+    {
+        "id": 3,
+        "entreprise": "Evidence Editions",
+        "contenu": "Chez Evidence Editions, j'\u00e9tais en charge de plusieurs sites sous WordPress\/Woocommerce ainsi que Prestashop. Mes taches principales \u00e9taient de maintenir \u00e0 jour les sites en effectuant une veille de s\u00e9curit\u00e9, d\u00e9velopper des nouveaux modules ainsi que de cr\u00e9er de nouveaux sites Wordpress."
+    },
+    {
+        "id": 2,
+        "entreprise": "Exhalessence",
+        "contenu": "Chez Exhalessence, mes missions \u00e9taient principalement de r\u00e9parer les nombreux bugs du site, ainsi que modifier des modules existants, afin d'ajuster les besoins des clients et de la direction pour une utilisation plus confortable. J'ai \u00e9galement pu utiliser de nombreuses librairies pour int\u00e9grer des QRCode sur les factures, pour g\u00e9n\u00e9rer des certificats de r\u00e9compense personnalis\u00e9s pour les meilleurs clients (\u00e0 la mani\u00e8re d'un dipl\u00f4me OpenClassroom), et apprendre l'utilisation des override et des hooks"
+    },
+    {
+        "id": 1,
+        "entreprise": "Wild Code School Orl\u00e9ans",
+        "contenu": "Dans le cadre de la WCS Orl\u00e9ans, 3 travaux ont pu \u00eatre r\u00e9alis\u00e9s : CV d'un personnage fictif en Html\/Css Refonte compl\u00e8te d'un site en Html\/Css\/Php avec utilisation de Bootstrap et du mod\u00e8le MVC Projet client r\u00e9el : Application de chiffrage de projet Web en Html\/Css\/Php avec utilisation de Bootstrap et Symfony 4.4"
+    }
+]

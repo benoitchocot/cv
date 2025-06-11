@@ -1,0 +1,51 @@
+[
+    {
+        "id": 6,
+        "entreprise": "Bamana Solutions",
+        "poste": "D\u00e9veloppeur d'applications web",
+        "periode": "Janvier 2024 \u00e0 Novembre 2024 (freelance)",
+        "description": "D\u00e9veloppement d'une e-boutique, application de gestion de projets, SaaS en Ruby on Rails"
+    },
+    {
+        "id": 5,
+        "entreprise": "AFPA Beaumont",
+        "poste": "Formation Concepteur D\u00e9veloppeur d'applications",
+        "periode": "Mai 2023 - Avril 2024",
+        "description": "Approfondissement des comp\u00e9tences"
+    },
+    {
+        "id": 4,
+        "entreprise": "Evidence Editions",
+        "poste": "D\u00e9veloppeur Web Prestashop\/Wordpress",
+        "periode": "Novembre 2021 \u00e0 D\u00e9cembre 2022",
+        "description": "D\u00e9veloppement de modules pour les boutiques, cr\u00e9ation de nouveaux sites"
+    },
+    {
+        "id": 3,
+        "entreprise": "Exhalessence",
+        "poste": "D\u00e9veloppeur Web Prestashop",
+        "periode": "F\u00e9vrier 2021 - Octobre 2021",
+        "description": "D\u00e9veloppement de modules pour la boutique, maintenance serveur NAS (Synology)"
+    },
+    {
+        "id": 2,
+        "entreprise": "Wild Code School Orl\u00e9ans",
+        "poste": "Formation D\u00e9veloppeur Web-Web Mobile PHP\/Symfony",
+        "periode": "Mars - Ao\u00fbt 2020",
+        "description": "Apprentissage HTML - CSS (Bootstrap) - PHP (Symfony) - JS + Titre RNCP (Bac+2 D\u00e9veloppeur Web et Web Mobile)"
+    },
+    {
+        "id": 1,
+        "entreprise": "Amazon",
+        "poste": "Pr\u00e9paration de commandes",
+        "periode": "2017-2018",
+        "description": "Picking et Packing \u00e0 Amazon Saran"
+    },
+    {
+        "id": 7,
+        "entreprise": "Axis Solutions",
+        "poste": "D\u00e9veloppeur D'application Web",
+        "periode": "Novembre 2024 - Mars 2025",
+        "description": "D\u00e9veloppeur d'applications web - Novembre 2024 \u00e0 Mars 2025 D\u00e9veloppement de SaaS sous Symfony (API Platform) et Angular"
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "id": 3,
+        "nom": " Bonnes pratiques r\u00e9f\u00e9rencement \/ SEO"
+    },
+    {
+        "id": 4,
+        "nom": "D\u00e9ploiement de serveur "
+    },
+    {
+        "id": 5,
+        "nom": "Sql \/ Mysql \/ PostgreSQL \/ MariaDB \/ SQLite3"
+    },
+    {
+        "id": 6,
+        "nom": "Wordpress\/Woocommerce"
+    },
+    {
+        "id": 7,
+        "nom": "Prestashop"
+    },
+    {
+        "id": 8,
+        "nom": "Docker"
+    },
+    {
+        "id": 9,
+        "nom": "APIs"
+    },
+    {
+        "id": 13,
+        "nom": "Javascript \/ Angular \/ NextJS"
+    },
+    {
+        "id": 14,
+        "nom": "GitHub - Gitlab"
+    },
+    {
+        "id": 10,
+        "nom": "PHP \/ Symfony"
+    },
+    {
+        "id": 11,
+        "nom": "Ruby \/ Rails"
+    }
+]
