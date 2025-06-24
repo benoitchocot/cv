@@ -1,15 +1,23 @@
 <?php
-include "config.php";
+include "config.php"; // Inclut session_start(), ADMIN_USER et ADMIN_PASS_HASH
+
+$error = ""; // Initialiser la variable d'erreur
 
 if ($_SERVER["REQUEST_METHOD"] === "POST") {
-    $username = $_POST["username"];
-    $password = $_POST["password"];
+    $username = trim($_POST["username"]); // trim pour enlever les espaces
+    $password = $_POST["password"]; // Pas de trim sur le mot de passe généralement
 
-    if ($username === ADMIN_USER && $password === ADMIN_PASS) {
+    // Vérifier le nom d'utilisateur et le hash du mot de passe
+    if ($username === ADMIN_USER && password_verify($password, ADMIN_PASS_HASH)) {
+        // Mot de passe correct
+        
+        session_regenerate_id(true); // Régénérer l'ID de session pour la sécurité
+        
         $_SESSION["admin"] = true;
         header("Location: index.php");
         exit;
     } else {
+        // Identifiants incorrects
         $error = "Identifiants incorrects.";
     }
 }

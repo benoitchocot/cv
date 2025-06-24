@@ -3784,3 +3784,38 @@ input, select, textarea {
 			}
 
 		}
+
+/* Style for the Download PDF Button */
+#download-pdf-btn {
+	-moz-appearance: none;
+	-webkit-appearance: none;
+	-ms-appearance: none;
+	appearance: none;
+	-moz-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
+	-webkit-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
+	-ms-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
+	transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
+	border-radius: 8px; /* Correspondance avec .button */
+	border: 0;
+	cursor: pointer;
+	display: inline-block;
+	font-weight: 300; /* Correspondance avec .button */
+	height: 2.75em; /* Correspondance avec .button */
+	line-height: 2.75em; /* Correspondance avec .button */
+	padding: 0 1.5em; /* Correspondance avec .button */
+	text-align: center;
+	text-decoration: none;
+	white-space: nowrap;
+	background-color: #8cc9f0; /* Couleur primaire du thème */
+	color: #ffffff !important; /* Texte blanc, important pour surcharger */
+	box-shadow: none; /* Pas de box-shadow comme .button.primary */
+	margin-top: 1em; /* Un peu de marge en haut */
+}
+
+#download-pdf-btn:hover {
+	background-color: #9acff2; /* Couleur primaire légèrement plus claire au survol */
+}
+
+#download-pdf-btn:active {
+	background-color: #7ec3ee; /* Couleur primaire légèrement plus foncée à l'appui */
+}
